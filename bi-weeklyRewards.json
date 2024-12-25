@@ -1,12 +1,12 @@
 {
-  "wstETH_apr": "12.21%",
+  "wstETH_apr": "11.03%",
   "wstETH_reward": [
     {
       "0xDE6D6f23AabBdC9469C8907eCE7c379F98e4Cb75": 1.23,
       "0xF89E24BaD60D78386a5Fe6B6c897dd4d88A9Ed70": 4.56
     }
   ],
-  "vault_apr": "46.30%",
+  "vault_apr": "51.14%",
   "vault_reward": [
     {
       "0xDE6D6f23AabBdC9469C8907eCE7c379F98e4Cb75": 1.23,
